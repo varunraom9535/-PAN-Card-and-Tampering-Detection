@@ -20,7 +20,7 @@ This project aims to identify and prevent tampering of PAN cards using machine l
 ## **How to Use**  
 1. Clone the repository:  
    ```bash  
-   [github.com/varunraom9535/-PAN-Card-and-Tampering-Detection ]
+   github.com/varunraom9535/-PAN-Card-and-Tampering-Detection 
 
 2. Upload the PAN card image or dataset.
 3. Run the notebook on Google Colab.
